@@ -1,0 +1,103 @@
+E:\FSE\web api\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+E:\FSE\web api\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\FSE\web api\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\EntityFramework.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\FSE\web api\WebApplication1\WebApplication1\bin\EntityFramework.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\FSE\web api\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\FSE\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\FSE\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\FSE\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\FSE\web api\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Desktop\420931\Assignments\23 – WEB API Assignment – 1-Dot Net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
