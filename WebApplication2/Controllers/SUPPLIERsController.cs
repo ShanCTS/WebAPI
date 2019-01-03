@@ -22,7 +22,7 @@ namespace WebApplication2.Controllers
             return View(sc.findAll());
         }
 
-        // GET: SUPPLIERs/Details/5
+        // GET: SUPPLIERs/Details/S1
         public ActionResult Details(string id)
         {
             if (id == null)
